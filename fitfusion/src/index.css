@@ -1,0 +1,6 @@
+/*
+Este archivo debería contener las directivas principales de TailwindCSS.
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
